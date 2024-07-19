@@ -1,2 +1,2 @@
 # Indian-Restaurant-Sales-Analysis
-This repository contains a Power BI data analysis project on Indian restaurants, enabling you to delve into restaurant data, customer preferences, and regional trends.
+Welcome to the Indian restaurants Sales Analysis Dashboard repository. This dashboard provides an in-depth analysis of the sales in city or locality from our Indian restaurants.
